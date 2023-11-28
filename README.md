@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Ruanlandwoigt/Ruanlandwoigt/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+### <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Ruanlandwoigt/Ruanlandwoigt/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Hello! I'm passionate about technology and currently pursuing a degree in Software Engineering. <br><br> I have a strong interest in web development and am constantly seeking opportunities to learn and enhance my skills in this field. I am <strong>excited to share my projects and contributions here on GitHub, and I hope you find something interesting in my repository. excited to share my projects and contributions here on GitHub, and I hope you find something interesting in my repository. </strong> and use them to create high quality solutions. Today, I'm a <strong>Welcome, and feel free to explore my coding world!</strong> </p>&nbsp;
